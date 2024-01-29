@@ -14,7 +14,6 @@ Seoul, Republic of Korea
 # Education
 * Korea University, Seoul, Republic of Korea (Mar 2020 - Present)
   * Ph.D. student in Cybersecurity, School of Cybersecurity
-  * Academic advisor: Prof. Wonjun Lee (NetLab)
 * Korea University, Seoul, Republic of Korea (Mar 2015 - Feb 2019) 
   * B.Eng. in Dept. of Cyber Defense (CYDF), Division of Information Security
   * Summa Cum Laude
