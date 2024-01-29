@@ -13,7 +13,7 @@ Based on Chester How's tale-theme(https://github.com/chesterhow/tale) with a few
 
 # Usage
 1. Fork and clone the AP repo:
-    * git clone https://github.com/kssim/ap.git
+    * git clone https://github.com/
 2. Install Jekyll:
     * gem install jekyll
 3. Install the theme's dependencies
